@@ -1,0 +1,17 @@
+---
+title: "About"
+date: 2017-07-12T14:29:27-04:00
+type: page
+aliases:
+  - "/about/"
+---
+
+
+Welcome to my blog, I am Andy Thornton and I created this site for a place to write and share my opinions on things that interest me. I am passionate about Open Source and how technology affects our lives and shapes our culture. I am a software engineer working for Red Hat where I get to indulge my passion for Open Source and write free software for a living.
+
+I began my career in London and, like many people in IT at that time (well, old people) , I primarily worked on mainframes with database design. Before moving into consultancy on database design and information security. In the latter half of the nineties I finally settled down with on-line application development and information architecture on the web, which involved far less pulling of cables under floorboards and less risk of electrocution.
+
+Prior to the millennium, my primary focus was on Microsoft technologies (IIS / ASP / VB / .Net / SQL server). However, since then my attention has focused on open source and Linux which has been a passion of mine since the early 90s.
+
+I am an ardent Linux user and in my spare time I try to catch up on my reading, there’s so many technologies out there and love to learn. I like to keep up with the latest trends and I am a constant “tweaker” of both hardware and software and love finding new uses for ‘obsolete’ technology. In Oct 1999 I met my wife and moved from London to Raleigh North Carolina, where I currently live along with a needy poodle and an old beagle who naps all day and doesn't realise she's a dog.
+
